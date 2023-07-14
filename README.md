@@ -1,16 +1,8 @@
 # rive_animated_login
 
-A new Flutter project.
+A new Flutter project using Rive for animatrd logi
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/shinchandler/rive_bear_login/assets/63005250/59841df1-8fc5-4f96-9573-02427f053dc2
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
