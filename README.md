@@ -1,6 +1,6 @@
 # rive_animated_login
 
-A new Flutter project using Rive for animatrd logi
+A new Flutter project using Rive for animation for login
 
 ## Final Result
 
