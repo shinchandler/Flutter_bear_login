@@ -14,13 +14,13 @@ https://github.com/shinchandler/Flutter_bear_login/assets/63005250/69f417f8-e210
 
 https://github.com/shinchandler/Flutter_bear_login/assets/63005250/cf003d8f-b792-49e6-8a38-5232ccec25f2
 
-A happy face on credentials matching
+#### A happy face on credentials matching
 
 ## Animation on incorrect details
 
 https://github.com/shinchandler/Flutter_bear_login/assets/63005250/032f8192-5d04-4ac6-ba5e-bdcb7bb103f3
 
-A frown face on credentials matching
+#### A frown face on credentials matching
 
 
 
