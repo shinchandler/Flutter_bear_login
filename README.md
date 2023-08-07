@@ -1,8 +1,19 @@
 # Animated_login
 
-Flutter project using Rive for animation for login
+Flutter project using Rive for animated login
 
-## Final Result
+## Bear's eye track your typing
 
+
+
+## Bear's eye track your typing
+
+
+
+## Bear's eye track your typing
+
+
+
+## Bear's eye track your typing
 
 
